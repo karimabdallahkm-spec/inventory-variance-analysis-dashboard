@@ -36,10 +36,8 @@ Inventory inaccuracies lead to financial losses, operational inefficiencies, and
 ### Analysis by Unit
 ![Pivot by Unit](screenshots/pivot-by-unit.png)
 
-### Detailed Variance
+### Detailed Variance by Category
 ![Detailed Variance](screenshots/pivot-detailed-variance.png)
 
-### Raw Data
+### Raw Source Data
 ![Fact Inventory Raw Data](screenshots/fact-inventory-raw-data.png)
-
-## 📁 Project Structure
